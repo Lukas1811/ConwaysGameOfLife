@@ -1,6 +1,6 @@
 // File:         GameCanvas.java
 // Created:      02.01.2020
-// Last Changed: 02.01.2020
+// Last Change:  02.01.2020
 // Author:       Lukas Huth
 
 package com.CT;

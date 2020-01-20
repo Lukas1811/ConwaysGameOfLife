@@ -1,14 +1,12 @@
 // File:         GameOfLife.java
 // Created:      02.01.2020
-// Last Changed: 02.01.2020
+// Last Change:  02.01.2020
 // Author:       Lukas Huth
 
 package com.CT;
 
-import java.lang.Math;
-
 public class GameOfLife {
-    // length of one edge of the square shaped map
+    // length and width of one edge of the map
     private int map_width;
     private int map_height;
     //holds the current game state
